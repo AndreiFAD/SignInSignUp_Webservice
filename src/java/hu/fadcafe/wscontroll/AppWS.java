@@ -11,7 +11,6 @@ import javax.jws.WebParam;
 /**
  *
  * @author Fekete András Demeter
- *
  */
 @WebService(serviceName = "AppWS")
 public class AppWS {

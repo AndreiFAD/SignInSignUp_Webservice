@@ -17,10 +17,8 @@ import java.util.logging.Logger;
 
 /**
  *
- *
  * @author Fekete András Demeter
  * 
- *
  */
 public class MySqlMethod {
 
