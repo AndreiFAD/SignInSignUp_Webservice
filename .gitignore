@@ -1,8 +1,6 @@
-
-*.xml
-
-*.xml
-
-*.xml
-
-build.xml
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
